@@ -1,0 +1,12 @@
+{
+  "name": "aglet",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "deploy:timekeeper": "bash ./scripts/deploy-tools-timekeeper.sh",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
