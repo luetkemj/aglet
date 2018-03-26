@@ -6,6 +6,7 @@
   "scripts": {
     "deploy:developers:components": "bash ./scripts/deploy-developers-components.sh",
     "deploy:tools:timekeeper": "bash ./scripts/deploy-tools-timekeeper.sh",
+    "deploy:tools:hunter-gatherer": "bash ./scripts/deploy-tools-hunter-gatherer.sh",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
