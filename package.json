@@ -12,6 +12,6 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@aglet/components": "^1.3.2"
+    "@aglet/components": "2.0.1"
   }
 }
